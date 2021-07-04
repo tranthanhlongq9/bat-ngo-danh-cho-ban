@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\img",
+    "\\js",
+    "\\sound"
   ],
+  "SelectedNode": "\\config.js",
   "PreviewInSolutionExplorer": false
 }
