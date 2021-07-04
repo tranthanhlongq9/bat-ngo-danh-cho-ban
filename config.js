@@ -19,7 +19,7 @@ const CONFIG = {
     //Việt Nam có hơn trăm triệu người, điều gì đã khiến em thích anh<3
     //Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh<3
     btnReply: 'Gửi cho tớ nha <3',
-    reply: 'Bởi vì cậu thật đẹp trai, chuẩn gu tớ <33',
+    reply: 'Bởi vì cậu thật đẹp trai, chuẩn gu tớ <33  ',
     mess: 'Ỏww..🥰 Mời cậu đến với thế giới của tớ.. Sao hai ta không thử ib tìm hiểu nhau 😘😘',
     messDesc: 'Thử like 1 bài viết của mình và mình sẽ ib cho bạn.. ❤',
     btnAccept: 'Okiiiii lun <3',

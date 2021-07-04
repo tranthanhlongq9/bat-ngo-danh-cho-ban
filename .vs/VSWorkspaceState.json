@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\css",
     "\\img",
     "\\js",
     "\\sound"
   ],
-  "SelectedNode": "\\config.js",
+  "SelectedNode": "\\img\\bg-yourname.jpg",
   "PreviewInSolutionExplorer": false
 }
