@@ -8,13 +8,13 @@ const CONFIG = {
     //Lạc vào tim anh lẻ loi
     //Đằng sau chữ yêu đây là thương
     btnIntro: 'Bấm vào đây nhé ^^',
-    title: 'Chào mừng bạn đã đến với bất ngờ của mình, Hãy cùng mình nghe nhạc và trả lời câu hỏi nhá 😙',
+    title: 'Chào mừng bạn đã đến với bất ngờ của mình 😙',
     //Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙
-    desc: 'Phải chăng em thích anh rồi đúng không <3',
+    desc: 'Phải chăng em đã thích anh rồi đúng không <3',
     //Bạn có muốn làm cả thế giới của mình không<3
     //Phải chăng em đã say ngay từ lúc thấy nụ cười ấy 
     btnYes: 'Thích anh lắm á <33',
-    btnNo: 'Không, Mình chỉ lỡ bấm vào thôi :))',
+    btnNo: 'Mình chỉ lỡ bấm thôi :))',
     question: 'Việt Nam có hơn trăm triệu người, điều gì đã khiến em thích anh <3',
     //Việt Nam có hơn trăm triệu người, điều gì đã khiến em thích anh<3
     //Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh<3
