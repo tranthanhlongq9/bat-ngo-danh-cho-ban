@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Bạn gì ấy ơiii ^^',    
-    introDesc: `Mình nói bạn đóoo.., 
-    Sau đây mình có một bất ngờ dành riêng cho bạn..,
+    introDesc: `Mình nói bạn đóoo.. 
+    Sau đây mình có một bất ngờ dành riêng cho bạn..
     Trust me <3 `,
     //Trái đất vốn lạ thường
     //Mà sao em cứ đi nhầm đường
