@@ -23,5 +23,5 @@ const CONFIG = {
     mess: 'Ỏww..🥰 Mời cậu đến với thế giới của tớ.. Sao hai ta không thử ib tìm hiểu nhau 😘😘',
     messDesc: 'Thử like 1 bài viết của mình và mình sẽ ib cho bạn.. ❤',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/iamlong.limited/' //link mess của các bạn.
+    messLink: ' https://www.facebook.com/messages/t/100007512420868 ' //link mess của các bạn.https://www.facebook.com/iamlong.limited
 }
